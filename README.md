@@ -3,6 +3,6 @@
 Desenvolvimento ágil.
 2023, 2 sementre.
 
-## Equipe:
+### Equipe:
 
 [Pedro Henrique da Rocha](https://github.com/RochaUTFPR)
