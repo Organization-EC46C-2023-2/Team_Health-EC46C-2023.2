@@ -5,4 +5,5 @@ Desenvolvimento ágil.
 
 ### Equipe:
 
+[Luiza Kouketsu da Silva](https://github.com/luizakouketsu)  
 [Pedro Henrique da Rocha](https://github.com/RochaUTFPR)
