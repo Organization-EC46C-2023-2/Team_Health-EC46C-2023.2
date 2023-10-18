@@ -19,7 +19,7 @@ O Team Health é uma poderosa ferramenta de software desenvolvida para revolucio
    O Team Health permite o registro, análise e monitoramento contínuo do desempenho esportivo de cada atleta.
    
 2. **Análise de Características Físicas:**
-   O software registra e analisa as características físicas de cada atleta, como altura, peso, composição corporal, força, flexibilidade, resistência, entre outros. Essas informações são cruciais para ajustar os treinamentos e criar estratégias personalizadas.
+   O software registra e analisa as características físicas de cada atleta individualmente, como altura, peso, composição corporal, força, flexibilidade, resistência, entre outros. Essas informações são cruciais para ajustar os treinamentos e criar estratégias personalizadas.
 
 3. **Gestão de Treinamentos:**
    O Team Health facilita o planejamento e a gestão dos treinamentos, permitindo a criação de rotinas específicas para cada atleta com base em seus objetivos e características físicas. Os treinadores podem programar sessões de treino, monitorar a carga de trabalho e fazer ajustes em tempo real.
