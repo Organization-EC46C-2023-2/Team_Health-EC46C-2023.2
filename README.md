@@ -37,3 +37,5 @@ O Team Health é uma poderosa ferramenta de software desenvolvida para revolucio
 O Team Health é uma ferramenta essencial para equipes esportivas que buscam maximizar o desempenho de seus atletas, promover a saúde e minimizar lesões, garantindo que cada membro da equipe alcance seu potencial máximo.
 
 [Requisitos Funcionais](https://github.com/RochaUTFPR/Team_Health-EC46C-2023.2/blob/main/Requisitos%20de%20Usuarios/RF.md)
+[Requisitos não Funcionais](https://github.com/RochaUTFPR/Team_Health-EC46C-2023.2/blob/main/Requisitos%20de%20Usuarios/RF.md)
+
