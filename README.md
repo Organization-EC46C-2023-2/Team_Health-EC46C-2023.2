@@ -6,12 +6,12 @@ Desenvolvimento ágil.
 
 ### Equipe:
 
-[Daniel Ghinato Seidenthal]()  
+[Daniel Ghinato Seidenthal](https://github.com/Seidenthal)  
 [Luiza Kouketsu da Silva](https://github.com/luizakouketsu)  
 [Pedro Henrique da Rocha](https://github.com/RochaUTFPR)  
-[Victor Henrique Paulo Lopes Pereira](https://github.com/Victor-H0)
-[Vinícius Henrique Cerrone]()  
-[Vitor Hugo Gomes Melin]()  
+[Victor Henrique Paulo Lopes Pereira](https://github.com/Victor-H0)  
+[Vinícius Henrique Cerrone](https://github.com/Cerronera)  
+[Vitor Hugo Gomes Melin](https://github.com/Vitorug0)  
 
 
 O Team Health é uma poderosa ferramenta de software desenvolvida para revolucionar a gestão de atletas em equipes esportivas. Este software abrangente foi projetado para oferecer uma visão holística e detalhada do desempenho, saúde e características físicas de cada atleta - ou do time como todo -, com o objetivo de otimizar seu potencial atlético e contribuir para o sucesso da equipe.
