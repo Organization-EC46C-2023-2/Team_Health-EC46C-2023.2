@@ -27,7 +27,11 @@ O Team Health é uma poderosa ferramenta de software desenvolvida para revolucio
 4. **Histórico e Evolução Individual:**
    O software mantém um histórico detalhado do desempenho e das características físicas de cada atleta ao longo do tempo. Isso possibilita uma análise comparativa para avaliar a evolução individual e identificar padrões de melhoria.
 
-5. **Acesso Seguro e Colaborativo:**
+   
+![image](https://github.com/RochaUTFPR/Team_Health-EC46C-2023.2/assets/108278327/3c267313-1cf0-41b9-9472-a27dc1fb14f8)
+
+
+6. **Acesso Seguro e Colaborativo:**
    A plataforma proporciona acesso seguro e controlado aos membros da equipe, permitindo uma colaboração eficaz entre treinadores, médicos, fisioterapeutas e demais profissionais envolvidos na gestão do time.
 
 O Team Health é uma ferramenta essencial para equipes esportivas que buscam maximizar o desempenho de seus atletas, promover a saúde e minimizar lesões, garantindo que cada membro da equipe alcance seu potencial máximo.
