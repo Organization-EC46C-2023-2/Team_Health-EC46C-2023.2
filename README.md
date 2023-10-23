@@ -35,6 +35,9 @@ O Team Health é uma poderosa ferramenta de software desenvolvida para revolucio
    
 ![image](https://github.com/RochaUTFPR/Team_Health-EC46C-2023.2/assets/108278327/74891701-3cf6-4e4d-854d-23253fd7e646)
 
+Monitoramento
+
+![image](https://github.com/RochaUTFPR/Team_Health-EC46C-2023.2/assets/108278327/b9e4bdb6-af09-4631-9684-85aebe14958a)
 
 5. **Acesso Seguro e Colaborativo:**
    A plataforma proporciona acesso seguro e controlado aos membros da equipe, permitindo uma colaboração eficaz entre treinadores, médicos, fisioterapeutas e demais profissionais envolvidos na gestão do time.
