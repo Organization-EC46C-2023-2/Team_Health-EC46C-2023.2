@@ -104,5 +104,5 @@ A Tabela 1 a seguir contém as Histórias de Usuárias elicitadas.
 </table>
 
 <div style="text-align: center">
-<p>Tabela 3: História de Usuário</p>
+<p>Tabela 1: História de Usuário</p>
 </div>
