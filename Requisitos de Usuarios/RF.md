@@ -14,6 +14,6 @@
 | RF07   | O usuário deve poder consultar o atleta cadastrado pelo cpf.             | Alta       | RF07                    |
 | RF08   | O usuário deve poder consultar pela posição do atleta.                   | baixa      | RF07                    |
 | RF09   | O usuário deve poder visualizar graficamente os dados do atleta.         | Media      | RF07                    |
-| RF10   | O usuário deve poder colocar as formações do time para gerar o time ideal| Alta       | RF07                    |
+| RF10   | O usuário deve poder colocar as formações do time para gerar o time ideal| Alta       |                         |
 
 <p align="center">Tabela 1 - Requisitos funcionais</p>
