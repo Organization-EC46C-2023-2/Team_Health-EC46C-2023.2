@@ -50,3 +50,6 @@ O Team Health é uma ferramenta essencial para equipes esportivas que buscam max
 
 [Requisitos não Funcionais](https://github.com/RochaUTFPR/Team_Health-EC46C-2023.2/blob/main/Requisitos%20de%20Usuarios/RNF.md)
 
+### Prototipação:
+
+[Alto nível](https://www.figma.com/file/N0QwsnEbbu4o8gHtRumaig/ALTO-NIVEL?type=design&node-id=0-1&mode=design&t=FiT1BWvj2oZqfKTy-0)
