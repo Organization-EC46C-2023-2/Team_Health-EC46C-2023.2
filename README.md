@@ -1,4 +1,4 @@
-![logo](https://github.com/RochaUTFPR/Team_Health-EC46C-2023.2/assets/108278327/e70bb8af-6969-4005-97ec-b2cdb4f825b9)
+![logo](https://github.com/RochaUTFPR/Team_Health-EC46C-2023.2/assets/108278327/ef1b6d3b-1e55-41e6-b45a-a489dd564b9a)
 
   
 Desenvolvimento ágil.
@@ -24,7 +24,8 @@ O Team Health é uma poderosa ferramenta de software desenvolvida para revolucio
 2. **Análise de Características Físicas:**
    O software registra e analisa as características físicas de cada atleta individualmente, como altura, peso, composição corporal, força, flexibilidade, resistência, entre outros. Essas informações são cruciais para ajustar os treinamentos e criar estratégias personalizadas.
 
-![image](https://github.com/RochaUTFPR/Team_Health-EC46C-2023.2/assets/108278327/a2a6a39c-dad4-4bcc-94b2-529d76c914d5)
+![image](https://github.com/RochaUTFPR/Team_Health-EC46C-2023.2/assets/108278327/7a312cc7-c353-43ac-b201-d8c497a381a6)
+
 
 3. **Gestão de Treinamentos:**
    O Team Health facilita o planejamento e a gestão dos treinamentos, permitindo a criação de rotinas específicas para cada atleta com base em seus objetivos e características físicas. Os treinadores podem programar sessões de treino, monitorar a carga de trabalho e fazer ajustes em tempo real.
@@ -32,18 +33,25 @@ O Team Health é uma poderosa ferramenta de software desenvolvida para revolucio
 4. **Histórico e Evolução Individual:**
    O software mantém um histórico detalhado do desempenho e das características físicas de cada atleta ao longo do tempo. Isso possibilita uma análise comparativa para avaliar a evolução individual e identificar padrões de melhoria.
 
-   
-![image](https://github.com/RochaUTFPR/Team_Health-EC46C-2023.2/assets/108278327/74891701-3cf6-4e4d-854d-23253fd7e646)
+![image](https://github.com/RochaUTFPR/Team_Health-EC46C-2023.2/assets/108278327/2581d80f-0150-4e4b-b7f9-60259bf623c0)
 
 Monitoramento
 
-![image](https://github.com/RochaUTFPR/Team_Health-EC46C-2023.2/assets/108278327/b9e4bdb6-af09-4631-9684-85aebe14958a)
+![image](https://github.com/RochaUTFPR/Team_Health-EC46C-2023.2/assets/108278327/1961ca52-7809-4c45-916a-29c77d2a18a2)
+
 
 5. **Acesso Seguro e Colaborativo:**
    A plataforma proporciona acesso seguro e controlado aos membros da equipe, permitindo uma colaboração eficaz entre treinadores, médicos, fisioterapeutas e demais profissionais envolvidos na gestão do time.
+   
+![image](https://github.com/RochaUTFPR/Team_Health-EC46C-2023.2/assets/108278327/35821c59-3a81-4654-aa6e-2218aa0ae577)
 
-![image](https://github.com/RochaUTFPR/Team_Health-EC46C-2023.2/assets/108278327/ea5c18fa-a89c-4112-8d07-6cc1683bd2ef)
+7.Potencialize o desempenho de sua equipe esportiva com nossa avançada solução de software. Nossa tecnologia é capaz de coletar, analisar e interpretar dados abrangentes de cada atleta, permitindo a formação de um time ideal para alcançar a excelência e a vitória. Deixe a análise de dados guiar suas escolhas estratégicas e eleve o patamar de seu time esportivo de forma inteligente e eficaz, conquistando resultados impressionantes.
 
+![image](https://github.com/RochaUTFPR/Team_Health-EC46C-2023.2/assets/108278327/fabf008d-8a19-4802-8e3a-7049cbe489e6)
+
+![image](https://github.com/RochaUTFPR/Team_Health-EC46C-2023.2/assets/108278327/11331df1-c689-4e83-8fa8-52dda3b9b3f6)
+
+   
 O Team Health é uma ferramenta essencial para equipes esportivas que buscam maximizar o desempenho de seus atletas, promover a saúde e minimizar lesões, garantindo que cada membro da equipe alcance seu potencial máximo.
 
 [Requisitos Funcionais](https://github.com/RochaUTFPR/Team_Health-EC46C-2023.2/blob/main/Requisitos%20de%20Usuarios/RF.md)
