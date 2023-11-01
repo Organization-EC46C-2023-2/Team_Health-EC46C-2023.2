@@ -15,5 +15,9 @@
 | RF08   | O usuário deve poder consultar pela posição do atleta.                   | baixa      | RF07                    |
 | RF09   | O usuário deve poder visualizar graficamente os dados do atleta.         | Media      | RF07                    |
 | RF10   | O usuário deve poder colocar as formações do time para gerar o time ideal| Alta       |                         |
+| RF11   | O usuário principal deve poder realizar tudo que o usuário padrão faz    | Alta       |                         |
+| RF12   | O usuário principal deve poder cadastrar usuários padrão                 | Alta       |                         |
+| RF13   | O usuário principal deve poder excluir usuários padrão cadastrados       | Alta       | RF11                    |
+
 
 <p align="center">Tabela 1 - Requisitos funcionais</p>
